@@ -1,0 +1,33 @@
+.fill-success {
+    fill: #0cbc87;
+}
+.fill-warning {
+    fill:#f7c32e
+}
+.avatar-img {
+    height: 20px;
+    width: 20px;
+}
+.btn-primary-soft {
+    color: #2163e8;
+    background-color: rgba(33, 99, 232, 0.1);
+}
+.bg-facebook {
+    text-decoration: none;
+    color: #fff;
+    background-color: #5d82d1;
+}
+.bg-insta-gradient {
+    background: radial-gradient(circle at 20% 130%, #fdf497 0% ,#fdf497 5% , #fd5949 45%, #d6249f 60%, #285aeb 90%);
+    color: #fff;
+    background-size: 120% 120%;
+    background-position: right bottom;
+    transition: .3s ease-in-out;
+    border: 0;
+    text-decoration: none;
+}
+.bg-youtube {
+    background-color: #ff0000;
+    color:#fff;
+    text-decoration: none;
+}
